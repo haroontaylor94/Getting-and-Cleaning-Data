@@ -32,3 +32,6 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
  - `AllData` used to calculated means
 
 
+For more explanation of the functions used to complete the tasks of the Course Project see the [`run_analysis.R`](https://github.com/haroontaylor94/Getting-and-Cleaning-Data/blob/master/run_analysis.R) script.
+
+
