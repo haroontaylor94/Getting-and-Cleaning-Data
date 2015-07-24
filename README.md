@@ -25,9 +25,8 @@ You should create one R script called run_analysis.R that does the following:
 
 ## Files
 
-`run_analysis.R` contains the code to perform the analysis required for the Course Project. 
-The code assumes that all the necessary txt files are in the working directory.
+[`run_analysis.R`](https://github.com/haroontaylor94/Getting-and-Cleaning-Data/blob/master/run_analysis.R) contains the code to perform the analysis required for the Course Project. The code assumes that all the necessary txt files are in the working directory.
 
-`CodeBook.md` contains information on the variables, data and transformations used to perform the analysis for the Course Project.
+[`CodeBook.md`](https://github.com/haroontaylor94/Getting-and-Cleaning-Data/blob/master/CodeBook.md) contains information on the variables, data and transformations used to perform the analysis for the Course Project.
 
-`averaged_data.txt` contains the txt file that satisfies the step 5 of the Course Project
+[`averaged_data.txt`](https://github.com/haroontaylor94/Getting-and-Cleaning-Data/blob/master/averaged_data.txt) contains the txt file that satisfies step 5 of the Course Project
